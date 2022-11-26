@@ -1,3 +1,6 @@
+###Pytorch Implementation for 
+###DARec: Deep Domain Adaptation for Cross-Domain Recommendation via Transferring Rating Patterns
+
 #### 豆瓣图书数据集
 
 User:2718
